@@ -1,16 +1,23 @@
-### Hi there 👋
+```zsh
+> neofetch
+```
 
-<!--
-**lkruesselmann/lkruesselmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="https://cdn.discordapp.com/attachments/766624895739625502/938402160088080414/Unbenasssnnt.png" width="320" height="320"/> 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+void@anarchy
+-------------------------
+OS: Arch Linux x86_64
+Shell: zsh 5.8
+Location: Germany
+Interests: Cyber-Security,
+           Software Engineering
+Languages: Python, C#,
+           JS, Web
+Learning: C++, Game Hacking
+Hobbies: Programming, Cybersecurity, Gym
+```
+<p align="left">
+  &nbsp;
+  <img alt="#474342" src="https://via.placeholder.com/15/000000/000000?text=+" width="25" height="20" /><img alt="#ffffff" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" />
+</p>
