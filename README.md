@@ -14,7 +14,7 @@ Interests: Cyber-Security,
            Software Engineering
 Languages: Python, C#,
            JS, Web
-Learning: C++, Game Hacking
+Learning: C++
 Hobbies: Programming, Cybersecurity, Gym
 ```
 <p align="left">
