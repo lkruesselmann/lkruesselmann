@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://cdn.discordapp.com/attachments/766624895739625502/938402160088080414/Unbenasssnnt.png" width="320" height="320"/> 
+<img align="left" src="https://www.freeiconspng.com/thumbs/white-star-icon/white-star-icon-10.png" width="320" height="320"/> 
 
 ```
 void@anarchy
